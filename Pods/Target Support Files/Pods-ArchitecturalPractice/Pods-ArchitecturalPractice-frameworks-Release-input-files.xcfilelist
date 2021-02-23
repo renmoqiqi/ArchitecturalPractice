@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ArchitecturalPractice/Pods-ArchitecturalPractice-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AnnotationKit/AnnotationKit.framework
+${BUILT_PRODUCTS_DIR}/HHRouter/HHRouter.framework

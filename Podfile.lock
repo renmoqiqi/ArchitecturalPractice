@@ -1,0 +1,28 @@
+PODS:
+  - AnnotationKit (1.0.2):
+    - AnnotationKit/Core (= 1.0.2)
+    - AnnotationKit/EventCenter (= 1.0.2)
+    - AnnotationKit/Router (= 1.0.2)
+  - AnnotationKit/Core (1.0.2)
+  - AnnotationKit/EventCenter (1.0.2):
+    - AnnotationKit/Core
+  - AnnotationKit/Router (1.0.2):
+    - AnnotationKit/Core
+    - HHRouter
+  - HHRouter (0.1.9)
+
+DEPENDENCIES:
+  - AnnotationKit
+
+SPEC REPOS:
+  trunk:
+    - AnnotationKit
+    - HHRouter
+
+SPEC CHECKSUMS:
+  AnnotationKit: 0c374ea970af00b7a76b6d235ecc9dc14d03d0bb
+  HHRouter: c096524e95a07a1970e6e23a19ee5a9592dc326d
+
+PODFILE CHECKSUM: 1539a66e8336becb1d3d242a04fa571d8bba3611
+
+COCOAPODS: 1.8.4

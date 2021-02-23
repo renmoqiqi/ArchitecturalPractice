@@ -1,0 +1,6 @@
+framework module Pods_ArchitecturalPractice {
+  umbrella header "Pods-ArchitecturalPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
